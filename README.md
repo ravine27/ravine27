@@ -3,6 +3,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radha-agarwal-67b92528)
 
 ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://portfolio-website-rho-rust-31.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+
+
 ## 🏆 LeetCode Progress
 
 <p align="center">
