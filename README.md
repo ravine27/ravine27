@@ -2,6 +2,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radha-agarwal-67b92528)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?label=LeetCode&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/RADHA_AGARWAL&logo=leetcode&logoColor=black&color=FFA116)](https://leetcode.com/u/RADHA_AGARWAL)
+![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/RADHA_AGARWAL?theme=dark&show=graph,recent)
 ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 
 
